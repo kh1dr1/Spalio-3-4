@@ -1,0 +1,3 @@
+# Spalio 3-4 d. užduotys. Kintamųjų perdavimo mechanizmai
+1. Parašykite funkciją, kuri apskaičiuoja kvadrato perimetrą, int suskaičiuotiPerimetra(int krastine). Funkcijoje naudojamas parametras (argumentas) perduodamas reikšme. Tada sukurkite kitą funkciją, kuri apskaičiuoja kvadrato plotą, void suskaiciuotiPlota(int krastine, int& plotas). Funkcijai kraštinės kintamasis perduodamas reikšme, o plotas perduodamas kaip adresas.
+2. Parašykite dvi funkcijas: viena kovertuoja temperatūrą iš Celsijaus į Farenheitą, joje naudojate kintamojo perdavimą reikšme, celsiusToFahrenhei(double tempCelcius). Antra funkcija konvertuoja temperatūrą iš Farenheito į Celsijų naudojant kintamojo perdavimą adresu, fahrenheitToCelsius(double tempFahrenheit, double& tempCelsius).

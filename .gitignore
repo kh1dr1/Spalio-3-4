@@ -1,0 +1,11 @@
+# Build artifacts
+build/
+cmake-build-*/
+.idea/
+.vscode/
+
+# Binaries
+*.exe
+*.obj
+*.o
+*.bin
